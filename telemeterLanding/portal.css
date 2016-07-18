@@ -110,7 +110,7 @@ h3, h2, h1, p {
 	height: 550px;
 	margin: 10px;
 	padding: 10px;
-	border: 2px solid #d3d3d3;
+	border: 1px solid #d3d3d3;
 }
 
 .sesson_controll {
@@ -120,14 +120,13 @@ h3, h2, h1, p {
 	height: 550px;
 	margin: 10px;
 	padding: 10px;
-	border: 2px solid #d3d3d3;
+	border: 1px solid #d3d3d3;
 }
 
 .instructions {
 	background-color: #ffffff;
 	width: 100%;
 	margin: 10px;
-	clear: both;
 	border: 1px solid #d3d3d3;
 	padding: 10px;
 	height: 200px;	
