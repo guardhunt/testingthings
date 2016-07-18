@@ -86,12 +86,12 @@ h3, h2, h1, p {
 
 .textoverlay{
 	margin: auto;
-	height: 200px;
+	height: 140px;
 	padding: 10px;
 	color: white;
 	text-align: center;
 	font-size: 15pt;
-	width: 70%;
+	width: 30%;
 	border-radius: 10px;
 	font-weight: 200;
 	background-color: rgba(23, 23, 23, 0.7);
