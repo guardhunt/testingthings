@@ -78,8 +78,9 @@ h3, h2, h1, p {
 }
 
 .container {
-	width: 960px;
+	width: 1100px;
 	height 100%;
+	margin: 0 auto;
 }
 
 .overlay{ 
@@ -103,9 +104,9 @@ h3, h2, h1, p {
 
 .webrtc_frame {
 	background-color: #ffffff;
-	width: 400px; 
-	float: middle; 
-	height: 400px;
+	width: 500px; 
+	float: right; 
+	height: 500px;
 	margin: 10px;
 	padding: 10px;
 	border: 1px solid #d3d3d3;
@@ -115,7 +116,7 @@ h3, h2, h1, p {
 
 .sesson_controll {
 	background-color: #ffffff;
-	float: center;
+	float: left;
 	width: 600px;
 	height:  400px;
 	margin: 10px;
