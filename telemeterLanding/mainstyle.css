@@ -85,7 +85,7 @@ h3, h2, h1, p {
 
 .textoverlay{
 	margin: auto;
-	height: 120px;
+	height: 200px;
 	padding: 10px;
 	color: white;
 	text-align: center;
@@ -100,8 +100,10 @@ h3, h2, h1, p {
 	padding-top: 15px;
 	background-color: #ffffff;
 	width: 960px;
+	min-height: 680px;
 	height: 100%;  
 	margin: auto;
+	padding: 10px 0px;
 
 }
 
