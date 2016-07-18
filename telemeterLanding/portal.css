@@ -93,6 +93,7 @@ h3, h2, h1, p {
 .textoverlay{
 	margin: auto;
 	height: 30px;
+	line-height: 30px;
 	padding: 10px;
 	color: white;
 	text-align: center;
@@ -109,7 +110,7 @@ h3, h2, h1, p {
 	height: 600px;
 	margin: 10px;
 	padding: 10px;
-	border: 1px solid #d3d3d3;
+	border: 2px solid #d3d3d3;
 
 }
 
@@ -121,14 +122,14 @@ h3, h2, h1, p {
 	height: 600px;
 	margin: 10px;
 	padding: 10px;
-	border: 1px solid #d3d3d3;
+	border: 2px solid #d3d3d3;
 }
 
 .instructions {
 	background-color: #ffffff;
 	width: 100%;
 	margin: 10px;
-	float: bottom;
+	clear: both;
 	border: 1px solid #d3d3d3;
 	padding: 10px;
 	height: 200px;
