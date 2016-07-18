@@ -102,8 +102,8 @@ h3, h2, h1, p {
 	width: 960px;
 	min-height: 680px;
 	height: 100%;  
-	margin: auto;
-	padding: 10px 0px;
+	margin: 10px 0px;
+	padding: 10px;
 
 }
 
