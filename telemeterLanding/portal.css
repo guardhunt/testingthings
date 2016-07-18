@@ -78,7 +78,7 @@ h3, h2, h1, p {
 }
 
 .container {
-	width: 1300px;
+	width: 1260px;
 	height 100%;
 	margin: 0 auto;
 }
@@ -127,7 +127,7 @@ h3, h2, h1, p {
 
 .instructions {
 	background-color: #ffffff;
-	width: 1300px;
+	width: 100%;
 	margin: 10px;
 	clear: both;
 	border: 1px solid #d3d3d3;
