@@ -126,7 +126,8 @@ h3, h2, h1, p {
 .instructions {
 	background-color: #ffffff;
 	width: 100%;
-	margin: 10px;
+	margin: 10px 40px 10px 10px;
+	clear: both;
 	border: 1px solid #d3d3d3;
 	padding: 10px;
 	height: 200px;	
