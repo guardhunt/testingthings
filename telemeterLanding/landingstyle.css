@@ -52,6 +52,7 @@ h3, h2, h1, p {
 	height: 60px;
 	line-height: 60px;
 	text-align: center;
+	float: center;
 	font-size: 12pt;
 	display: block;
 	text-decoration: none;
