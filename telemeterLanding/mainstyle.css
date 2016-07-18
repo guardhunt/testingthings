@@ -97,7 +97,7 @@ h3, h2, h1, p {
 	background-color: rgba(23, 23, 23, 0.7);
 }
 
-.content {
+.content_area {
 	background-color: #ffffff;
 	width: 100%;  
 	margin: 20px 0px;
@@ -105,11 +105,7 @@ h3, h2, h1, p {
 
 }
 
-.content2 {
-	background: url(pictures/chattanooga_web.png) no-repeat center center fixed;
-	background-size: cover;
-	width: 100%;
-	position: relative;
-	height: 640px;
-	margin: auto;
+.content {
+	width: 960px;
+	margin: 0 auto;
 }
